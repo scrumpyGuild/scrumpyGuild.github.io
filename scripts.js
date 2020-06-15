@@ -170,7 +170,7 @@ characters.forEach( function( char ) {
 
         // Push all info into a row and then push into container
         var charContent = '';
-        charContent += '<a href="' + char.profile_url + '" target="_blank" class="row '+ rowClass +'">';
+        charContent += '<a href="' + out.profile_url + '" target="_blank" class="row '+ rowClass +'">';
         charContent += '<img src="' + out.thumbnail_url + '">';
         charContent += '<em class="name">' + charTitle + '</em>';
         charContent += '<em class="keys">' + content + '</em>';
