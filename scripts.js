@@ -33,6 +33,7 @@ function scrumpyM_plus() {
         { char: 'Quacky', server: server },
         { char: 'Jasperx', server: server },
         { char: 'Raliator', server: server },
+        { char: 'Sharrkul', server: server },
         { char: 'Droidfisthed', server: twisting },
         { char: 'Rougefist', server: twisting },
         { char: 'Shandh', server: tm },
